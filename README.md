@@ -13,7 +13,7 @@ Currently, I'm a Principal Engineer at idealo (Axel Springer SE) where I lead ar
 - Generative AI
 
 💬 I care about:
-- Tech stratey
+- Tech strategy
 - Domain-Driven Design (DDD)
 - Engineering culture and mentoring
 - Resilience engineering and observability
